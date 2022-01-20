@@ -5,5 +5,6 @@
     echo  "this is code feature 1";
     echo 'this is feature 2';
     echo 'echo feature3';
+    echo 'echo feature6';
     echo 'echo feature4';
 ?>
