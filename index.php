@@ -6,4 +6,5 @@
     echo 'this is feature 2';
     echo 'echo feature3';
     echo 'echo feature4';
+   echo 'feature6';
 ?>
